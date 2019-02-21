@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Monoculture.TinyCLR.Drivers.G120EEPROM</id>
+    <title>Monoculture.TinyCLR.Drivers.G120EEPROM</title>
+    <summary>TinyCLR driver for the G120 (LPC17xx) internal EEPROM</summary>
+    <version>$version$</version>
+    <license type="expression">Apache-2.0</license>
+	<requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <authors>Monoculture</authors>
+    <projectUrl>https://github.com/monoculture/Monoculture.TinyCLR.Drivers.G120EEPROM</projectUrl>
+    <description>TinyCLR driver for the G120 (LPC17xx) internal EEPROM</description>
+    <copyright>Copyright ©2019 Monoculture</copyright>
+    <tags>TinyCLR TinyCLROS EEPROM</tags>
+  </metadata>
+</package>
